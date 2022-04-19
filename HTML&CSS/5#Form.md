@@ -38,7 +38,7 @@
 
 🎨 **Result**
 
-![Untitled](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/75caf629-c864-4297-bf12-8c4773407c71/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220510%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220510T184951Z&X-Amz-Expires=86400&X-Amz-Signature=66cd1c851befaf0b2ad2e794433eb93527e1396a2c5f6e6f71d2bf19cd85af9c&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22&x-id=GetObject)
+![Untitled](https://ifh.cc/g/QHKwO8.png)
 
 위 결과물에서 보이는 것과 같이, 위에 입력한 코드로 인해 로그인 창이 만들어졌다. 
 
@@ -77,7 +77,7 @@
 
 그렇다면 실습을 통해 label과 input의 관계성을 알아보자. 위 예제에서 텍스트창이 이메일과 비밀번호로 나누어져 있다. 위 코드를 바탕으로 만들어진 입력창에 이메일과 비밀번호를 입력해 보겠다.
 
-![Untitled](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/dd3405bd-fafa-403d-ab4b-7931b14eea1f/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220510%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220510T185006Z&X-Amz-Expires=86400&X-Amz-Signature=6a0e605599c0c2f63706ca474651d229f999b3251c6b63713a4326d092d595ce&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22&x-id=GetObject)
+![Untitled](https://ifh.cc/g/QlxHZH.png)
 
 이와 같이 `이메일은 정상 표시` 되고, `비밀번호는 표시되지 않는 것`을 볼 수 있다. 코드를 하나하나 살펴보며 분석해 보겠다.
 
@@ -155,7 +155,7 @@ value="woman"> 여자
 </label>
 ```
 
-![Untitled](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/8f9e3934-7ff2-473b-ab17-26a64a318c02/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220510%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220510T185213Z&X-Amz-Expires=86400&X-Amz-Signature=f873229a705faa4c164649be4485f43477ba75f19d3d457cad7e6349fe78c3af&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22&x-id=GetObject)
+![Untitled](https://ifh.cc/g/zcTvdg.png)
 
 **`복수 선택이 불가`**하다. 같은 그룹 내에서 하나의 선택지만 선택할 수 있다. name이라는 속성에 같은 값을 입력하면 `같은 그룹으로 지정`할 수 있다. 원하는 radio에 checked라는 값을 입력해 주면 위와 같이 웹페이지가 로드될 때 체크가 되어 표시된다.
 
@@ -176,7 +176,7 @@ value="baking"> 베이킹
 </label>
 ```
 
-![Untitled](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/e156ac10-31e3-446c-98cf-bfcb2b0fc712/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220510%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220510T185228Z&X-Amz-Expires=86400&X-Amz-Signature=4401ceafa28f754a9b32d735779330eeb6afd3dcb45a020c2dd6ab690e99bdb4&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22&x-id=GetObject)
+![Untitled](https://ifh.cc/g/h4Kb1O.png)
 
 `복수 선택이 가능`하다. 같은 name으로 설정하여도 `같은 그룹으로 묶이지 않는다.` 마찬가지로 checked라는 값을 입력해 주면 웹페이지가 로드될 때 체크가 되어 표시된다.
 
@@ -211,7 +211,7 @@ value="baking"> 베이킹
 </label>
 ```
 
-![Untitled](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/86b59652-b447-4c7a-bf69-ac453485186b/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220510%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220510T185239Z&X-Amz-Expires=86400&X-Amz-Signature=d6048ac2ec5ef0ddebe413d1ffa622a4ad308092099cc9a609921b709a5fe01a&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22&x-id=GetObject)
+![Untitled](https://ifh.cc/g/rF0z2w.png)
 
 색상을 직접 선택할 수 있는 `색상 피커`가 표시된다.
 
@@ -228,7 +228,7 @@ value="baking"> 베이킹
 	</label>
 ```
 
-![Untitled](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/d80e6cdc-fc27-4021-bda5-92ebc8f3b8bd/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220510%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220510T185246Z&X-Amz-Expires=86400&X-Amz-Signature=a28a94804d0002ca406cd20088b02bed1338b711db56a31f6c1ac35f17ee4192&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22&x-id=GetObject)
+![Untitled](https://ifh.cc/g/FN2GXp.png)
 
 범위를 선택할 수 있는 `슬라이드 바`가 표시된다. 기본 범위는 0부터 100까지이지만, 다음 속성들과 함께 사용하면 그 범위를 설정할 수 있다.
 
@@ -244,7 +244,7 @@ value="baking"> 베이킹
 </label>
 ```
 
-![Untitled](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/7af24efd-a46d-40bb-b47d-04a42423d51d/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220510%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220510T185255Z&X-Amz-Expires=86400&X-Amz-Signature=c8db66a3bb2c0c4e0306049773c29f4e35d2317e10792764264ace76bd700ba0&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22&x-id=GetObject)
+![Untitled](https://ifh.cc/g/Qdz5CL.png)
 
 날짜를 입력할 수 있는 `텍스트 필드`와 날짜를 직접 선택할 수 있는 `특별한 입력기`가 함께 표시된다.
 
@@ -259,7 +259,7 @@ value="baking"> 베이킹
 </label>
 ```
 
-![Untitled](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/f7f653c5-1719-48ee-8eac-8ccabdabbfb3/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220510%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220510T185304Z&X-Amz-Expires=86400&X-Amz-Signature=65ff42d8526a0aebe8de8c443284e66dcfdb01a69253848f7d03b9b11f93e595&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22&x-id=GetObject)
+![Untitled](https://ifh.cc/g/q79bCf.png)
 
 시간을 직접 입력할 수 있는 `텍스트 필드`와 시간을 선택할 수 있는 `특별한 입력기`가 표시된다.
 
@@ -276,7 +276,7 @@ value="baking"> 베이킹
 	</label>
 ```
 
-![Untitled](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/e58c90b6-d320-42d4-825c-8b8cc97b4b44/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220510%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220510T185316Z&X-Amz-Expires=86400&X-Amz-Signature=aeab2adf68a8d94ea61b4283a9d117d1e81a8c491aea3c62dff4b53748e689bb&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22&x-id=GetObject)
+![Untitled](https://ifh.cc/g/oBkkXG.png)
 
 *숫자를 보다 쉽게 입력할 수 있는 `텍스트 필드`와 `화살표`가 있다.*
 
@@ -291,7 +291,7 @@ name="myFile">
 </label>
 ```
 
-![Untitled](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/c0247b70-b30e-423c-b49b-05ad327a7af0/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220510%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220510T185331Z&X-Amz-Expires=86400&X-Amz-Signature=bc600260de9f159fdd19fdbaec0382881949048d845a858ce323cde1d34fd935&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22&x-id=GetObject)
+![Untitled](https://ifh.cc/g/dQzhHx.png)
 
 웹페이지에서 사용자의 `로컬 파일`을 입력받기 위한 속성이다.  accept에 입력받을 수 있는 파일의 유형을 지정할 수 있다.
 
@@ -325,7 +325,7 @@ name="myFile" accept="jpg,png,psd">`
 
 🎨 **Result**
 
-![Untitled](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/8eef946d-bf11-40a4-acb3-bbbae823400b/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220510%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220510T185341Z&X-Amz-Expires=86400&X-Amz-Signature=a72248e5d79c98d064377c95998cd1bb87a7c89ae85b5005883089942ea43112&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22&x-id=GetObject)
+![Untitled](https://ifh.cc/g/RN10GG.png)
 
 위 코드를 분석해 보면 select 요소는 아래로 펼쳐지는 목록 상자, 즉 `선택지`의 역할을 하며, option은 선택지 내에서 `선택할 수 있는 요소`이다. option을 그룹으로 묶을 수 있는 `optgroup`은 선택할 수 있는 요소들을 `특정 주제로 분류하고 싶을 때 사용`한다. 또한, option 요소는 `단독 사용이 불가능`하기 때문에 무조건 select를 부모 요소로 삼아야 한다.
 
@@ -372,7 +372,7 @@ option value의 value는 클라이언트가 그 값을 선택하였을 때 서�
 
 🎨 **Result**
 
-![Untitled](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/54ac0e40-d4ff-4675-81d4-3faf10f92f92/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220510%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220510T185356Z&X-Amz-Expires=86400&X-Amz-Signature=1d25401f029ca83125fd8e7d7633ddce45334d7e22944a4ba6327f3ffb754a6a&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22&x-id=GetObject)
+![Untitled](https://ifh.cc/g/Co4LST.png)
 
 위와 같이 `option을 묶어주는 카테고리`와 같은 역할을 한다. `라면, 쫄면, 김밥은 분식` / `자장면, 짬뽕, 군만두는 중식` 으로 나뉘어져 한 그룹으로 묶여져 있는 선택 목록들이 어떤 카테고리에 속해 있는지 표현할 수 있다.
 
@@ -388,6 +388,6 @@ input type의 속성값인 text와는 다른, `textarea`라는 요소이다. inp
 <textarea name="texttest" id="texttest" cols="30" rows="10"></textarea>
 ```
 
-![Untitled](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/b9c3e9ee-b176-4b32-95a1-69dae2252b91/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220510%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220510T185404Z&X-Amz-Expires=86400&X-Amz-Signature=8bbbb1d225e5b241ceca30dd113a79939523c35f62bed9aa4fa55b6030f7c63b&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22&x-id=GetObject)
+![Untitled](https://ifh.cc/g/QkrRHA.png)
 
 위와 같이 입력 후 서버에 전송되었을 때, 서버에서는 위와 같은 text를 `AB₩nCD` 로 해석한다.
