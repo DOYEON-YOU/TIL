@@ -64,7 +64,7 @@
 
 🎨 **Result**
 
-![Untitled](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/8d3f50a8-7113-4530-ad68-80835a6119fd/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220510%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220510T183949Z&X-Amz-Expires=86400&X-Amz-Signature=af7b01f11bb7d9d5f217e151729f7e09770a35eb884b72ca55941c5574d188e5&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22&x-id=GetObject)
+![Untitled](https://ifh.cc/g/fYtmjQ.png)
 
 <br>
 
@@ -100,7 +100,7 @@
 
 🎨 **Result**
 
-![Untitled](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/868e6fd3-e730-4aee-99a9-ac59f67781bb/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220510%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220510T184002Z&X-Amz-Expires=86400&X-Amz-Signature=93d1ddeea936aeacbc41a12eb1c7ec6a307fef43b33084e15f6804d25477d20a&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22&x-id=GetObject)
+![Untitled](https://ifh.cc/g/0dP20x.png)
 
 위 표를 확인했을 때 행과 열이 어떻게 나뉘는지, 표의 헤드라인이 어떻게 만들어지는지 파악할 수 있어야 한다. `Table`이라는 부모 요소에 `tr`과 `th`,  `td` 라는 자식 요소와 자손 요소들을 볼 수 있다. border 속성값을 따로 명시하지 않으면 해당 테이블은 언제나 빈 테두리를 가지게 되는데 border 속성값을 작성하지 않았으므로 위 표는 테두리가 없다.
 
@@ -181,7 +181,7 @@ tr {
 
 🎨 **Result**
 
-![Untitled](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/58f7c631-71c1-4824-a441-299507803f64/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220510%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220510T184015Z&X-Amz-Expires=86400&X-Amz-Signature=583b2ce38f5d31b231cf94bb44167a2be3b1898901e8494fc84d1546f562b014&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22&x-id=GetObject)
+![Untitled](https://ifh.cc/g/p1jG3r.png)
 
 위 표는 테두리가 두 겹이다. 위의 예제에서 테이블의 테두리(border)가 두 줄씩 나타나는 이유는 `<table>`태그와 `<th>`태그, `<td>`태그가 모두 **자신만의 테두리를 가지고 있기 때문**이다. 그렇다면 테두리가 **실선으로만 이루어진 표**는 어떻게 만들까?
 
@@ -234,7 +234,7 @@ tr {
 
 🎨 **Result**
 
-![Untitled](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/94fd9ade-8438-4273-94aa-9f36887832ce/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220510%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220510T184026Z&X-Amz-Expires=86400&X-Amz-Signature=6b7ed6dcd53f8d53d2ec40e88ab423a4298d139a785608de9574e585926d1ab3&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22&x-id=GetObject)
+![Untitled](https://ifh.cc/g/rjctcf.png)
 
 테두리가 두 겹인 표와 실선으로 이루어진 표의 차이점은 단 한 가지이다. CSS area에 `border-collapse: collapse;` 가 있느냐 없느냐의 차이인데, border-collapse 속성값을 collapse로 설정하면 해당 테이블의 테두리는 한 줄로 표현된다. 이 속성을 명시하지 않으면 해당 테이블은 기본 설정으로 테이블 요소별 테두리를 모두 표현하게 된다.
 
@@ -293,7 +293,7 @@ tr {
 
 🎨 Result
 
-![Untitled](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/8b75a0e0-9ac8-4a33-a29b-6479ece54a84/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220510%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220510T184037Z&X-Amz-Expires=86400&X-Amz-Signature=194536b2b1fcc182508f6bb37ffb8284b392fc3670edc615f0eb337f566bd533&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22&x-id=GetObject)
+![Untitled](https://ifh.cc/g/XNjObx.png)
 
 ---
 
@@ -355,7 +355,7 @@ tr {
 
 🎨 **Result**
 
-![Untitled](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/724e6f76-21fb-4809-a207-b39ea25ca72b/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220510%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220510T184047Z&X-Amz-Expires=86400&X-Amz-Signature=04ca577e15e7379f9ed73fa021e3593f66bab9f1990ef378b436bc910a9d356b&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22&x-id=GetObject)
+![Untitled](https://ifh.cc/g/VBqkKz.png)
 
 이 테이블에서 1과 2의 칼럼을 합치거나, 1과 6의 로우를 합치거나, 1과 2, 6, 7을 모두 합칠 수 있다. 예제로 바로 알아보자.
 
@@ -413,7 +413,7 @@ Column(열)을 합치기 위해서는 `**colspan**`이라는 새로운 속성이
 
 🎨 **Result**
 
-![Untitled](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/560ff3e6-62e5-4063-9d68-a1dbb358361b/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220510%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220510T184101Z&X-Amz-Expires=86400&X-Amz-Signature=e79c2ae8c4f98c5f21cbaa2123a6bef188aa184bc10c133599895bfe759aa8ef&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22&x-id=GetObject)
+![Untitled](https://ifh.cc/g/oPad5s.png)
 
 위 예제를 보면 어딘가 엉성하다. 1이라는 숫자를 4열까지 폭을 늘렸더니 3, 4, 5가 오른쪽으로 밀려났다. 위에서 이야기 했듯이 행을 합친다고 하기 보다는 특정 열을 선택해 폭을 늘리는 것이기 때문에 그렇다. 그렇다면 밀려나온 3, 4, 5를 없애 깔끔하게 정리해 주겠다.
 
@@ -448,7 +448,7 @@ Column(열)을 합치기 위해서는 `**colspan**`이라는 새로운 속성이
 
 🎨 **Result**
 
-![Untitled](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/c1bd35c8-2814-4377-9aca-3878068890ec/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220510%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220510T184116Z&X-Amz-Expires=86400&X-Amz-Signature=5e7156942afda7b850af34f4184a02c4bdb1675ec34128e57ede3144690cca91&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22&x-id=GetObject)
+![Untitled](https://ifh.cc/g/98hSps.png)
 
 이제 보기좋게 열이 합쳐졌다. 1열의 열을 4열까지 늘리고, 2~4 열을 삭제해 주었다.
 
@@ -505,7 +505,7 @@ rowspan도 똑같이 실습하여 1번과 6번 행을 하나로 합쳐 보겠다
 
 🎨 **Result**
 
-![Untitled](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/6ad70871-2f2f-40b9-a506-d7aee506cadb/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220510%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220510T184129Z&X-Amz-Expires=86400&X-Amz-Signature=020937ede47cc81ccac0e7b6528b2457d218825ae291a5305b525a7e012dfc8f&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22&x-id=GetObject)
+![Untitled](https://ifh.cc/g/Vscd9X.png)
 
 1열 1행의 1번을 1열 2행인 6번의 자리까지 옮겼다. 대부분 깔끔하게 정리하기 위해서는 쓰지 않는 코드는 삭제해 주는 게 좋지만, 주석 처리를 해도 상관 없다. 이처럼 colspan과 rowspan은 공통적으로 `**td의 속성**`이며, colspan은 오른쪽 전진 rowspan은 아랫쪽 전진인 것을 확인할 수 있다.
 
@@ -549,6 +549,6 @@ colspan과 rowspan을 적절히 섞어 사용하면 복잡한 형태의 표도 �
 
 🎨 **Result**
 
-![Untitled](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/24e9a8b6-e7e2-46b3-b47d-37e9c65a271e/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220510%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220510T184140Z&X-Amz-Expires=86400&X-Amz-Signature=b422174895e25fc6f78301273880f287e50da5ba013155ca49310c0dd8b55bbe&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22&x-id=GetObject)
+![Untitled](https://ifh.cc/g/Y1xy9B.png)
 
 위처럼 단순한 코드 조합으로 1번이 오른쪽으로 3칸, 밑으로 2칸을 차지하였다. 이처럼 rowspan과 colspan은 아주 쉽게 원하는 형태의 표를 만들 수 있도록 하는 속성이다.
