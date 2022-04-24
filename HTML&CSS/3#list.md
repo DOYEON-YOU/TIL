@@ -84,7 +84,7 @@ padding left: 40px
 
 🎨 Result
 
-![Untitled](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/3fb6c7d9-96e4-498a-af6f-0c5bbc7b4ba9/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220510%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220510T183247Z&X-Amz-Expires=86400&X-Amz-Signature=318907b5b99e7dea75dac16cc9cebdb2f29ed4322dfdaa3c3e5c5f3ff64f7ae4&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22&x-id=GetObject)
+![Untitled](https://ifh.cc/g/1GH75X.png)
 
 <br>
 
@@ -98,7 +98,7 @@ ul 요소를 적용하지 않고 <br> 요소만을 이용하여 목록을 나누
 
 ul은 **블록(Block) 요소**이며, **위 아래 마진과 왼쪽 패딩**을 가지고 있다고 하는데 직접 확인해 보자.
 
-![Untitled](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/666bfe9f-fbcd-4734-9e58-e9d55f94b7b2/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220510%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220510T183307Z&X-Amz-Expires=86400&X-Amz-Signature=1632922ab274127358c288b01eaa7019acab8b529a058586cc08f0b95009ca1a&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22&x-id=GetObject)
+![Untitled](https://ifh.cc/g/OTca8J.png)
 
 ```html
 ul {
@@ -162,7 +162,7 @@ padding left: 40px
 
 🎨 Result
 
-![Untitled](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/28ea9b6b-6e63-4790-b98d-b47457030a4f/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220510%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220510T183320Z&X-Amz-Expires=86400&X-Amz-Signature=286837a1f9969dd870a05dddabee775884db10f03cac8c7159b6797d0f9e0d40&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22&x-id=GetObject)
+![Untitled](https://ifh.cc/g/WQnmKD.png)
 
 <br>
 
@@ -178,7 +178,7 @@ ul은 **블록(Block) 요소**이며, **위 아래 마진과 왼쪽 패딩**을 
 
 ol 요소는 어떨지 직접 확인해 보자.
 
-![Untitled](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/ed635a32-18a0-4cc1-ae98-8b27ece26548/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220510%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220510T183333Z&X-Amz-Expires=86400&X-Amz-Signature=b0c91a2d162f123125a315c228ab6658b401f51f59280b5ea319f0b02cca31b3&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22&x-id=GetObject)
+![Untitled](https://ifh.cc/g/4OBR24.png)
 
 ```html
 ol {
@@ -264,7 +264,7 @@ margin top & margin bottom: 1em;
 
 🎨 Result
 
-![Untitled](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/607d90c7-d406-4ac9-aab7-d94c8550acb9/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220510%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220510T183347Z&X-Amz-Expires=86400&X-Amz-Signature=b781f90faf21dc01a2b60c97b6216658e79cd02fd0df686ec07d3314deaefa2e&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22&x-id=GetObject)
+![Untitled](https://ifh.cc/g/W9wxkv.png)
 
 <br>
 
@@ -278,7 +278,7 @@ dl 요소는 용어나 이름을 나타내는 `dt` 요소와, 해당 용어에 �
 
 살펴보자.
 
-![Untitled](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/0e374941-7988-4396-9d82-c127fc4682f3/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220510%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220510T183356Z&X-Amz-Expires=86400&X-Amz-Signature=73601027ca13c290b6cce13c4f240df589b0e875518ba955dee8b698a7a93d5f&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22&x-id=GetObject)
+![Untitled](https://ifh.cc/g/3p2KoV.png)
 
 ```html
 dl {
