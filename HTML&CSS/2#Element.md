@@ -159,7 +159,7 @@ one이라는 id가 있다고 가정해 보자.
 
 <br>
 
-![Untitled](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/e0dabd21-3c89-40c1-a750-77f7ae1e368b/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220510%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220510T182212Z&X-Amz-Expires=86400&X-Amz-Signature=53602098a69c66a1dbb38da76d4339f0b83cdd85344cc8db5022fdce6b4a4387&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22&x-id=GetObject)
+![Untitled](https://ifh.cc/g/Yh6F1v.png)
 
 <br>
 
@@ -208,7 +208,7 @@ my-class 라는 class를 만들어 실험해 보자.
 </html>
 ```
 
-![Untitled](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/7ecef433-1e74-4b1f-8abf-6cefa9815858/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220510%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220510T182228Z&X-Amz-Expires=86400&X-Amz-Signature=8d84448a305d414aaa72be339f61ecc3d1896aa6bb2133fa3ed94442c2e98a3f&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22&x-id=GetObject)
+![Untitled](https://ifh.cc/g/NW8Bjg.png)
 
 id, class를 둘 다 사용했을 때 id와 class라는 공통 속성으로 인해 one이라는 id를 가지고 있는 WELCOME이라는 글자 요소를 결과물로 도출해 보았을 때, 빨간색인 50px 글자에 이태릭체가 적용되어 있는 결과가 나오고, my-class라는 class를 가지고 있는 HELLO WORLD라는 글자 요소를 결과물로 도출해 보았을 때, 회색인 100px 글자에 굵음 효과가 적용되어 있는 결과가 나온다.
 
@@ -284,7 +284,7 @@ CSS의 font-style, font-height 등 속성은 모두 kebab case로 되어 있다.
 </html>
 ```
 
-![Untitled](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/28b568f1-fdd0-4761-94b3-6d179638ab01/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220510%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220510T182240Z&X-Amz-Expires=86400&X-Amz-Signature=7f197f5869cb32c04ccaee1f9f78d36f5be431b67f2e57faeed8be1db5fcbc80&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22&x-id=GetObject)
+![Untitled](https://ifh.cc/g/J7vPmG.png)
 
 위와 같이 div 요소는 웹 브라우저의 폭을 100% 차지하며, 높이는 필요한만큼만 차지하는 Block 요소이다. `<div id=”imagePanel></div>` 안의 이미지 두 장이 들어가 있듯이, div 요소는 주로 다른 요소를 포함하는 용도로 사용된다. id 속성을 이용해 선을 만들어서 가로폭이 웹 브라우저의 100%라는 것을 증명하고 있다. div가 기본적으로 가지고 있는 속성은 `display: block; margin: 0px; padding: 0px;` 이다.
 
@@ -316,11 +316,11 @@ CSS의 font-style, font-height 등 속성은 모두 kebab case로 되어 있다.
 </html>
 ```
 
-![Untitled](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/abead41e-fad4-472d-a4d3-4e840999d9bf/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220510%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220510T182255Z&X-Amz-Expires=86400&X-Amz-Signature=efdfeaa2c3941666016c9bdc099e14f789b413a24c16764bd99ac8aec65231ca&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22&x-id=GetObject)
+![Untitled](https://ifh.cc/g/TN3MqW.png)
 
 h요소는 주로 `제목을 표현할 때 쓰는 요소`이기 때문에, 기본적으로 가지고 있는 CSS가 있다. h1 요소의 기본 CSS를 살펴 보자.
 
-![Untitled](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/3a995d35-8e58-4bea-be43-903c8b40be97/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220510%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220510T182308Z&X-Amz-Expires=86400&X-Amz-Signature=c96c7545d89bfcffbce851cbc2c8d40b9ae55477a5587596974a3a178aa5a960&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22&x-id=GetObject)
+![Untitled](https://ifh.cc/g/dRNVCc.png)
 
 이와 같이 기본적으로 `margin-top`, `margin-bottom`, `font-weight`, `font-size` 의 값이 설정되어 있는 것이 보인다. 
 
@@ -379,7 +379,7 @@ h요소는 주로 `제목을 표현할 때 쓰는 요소`이기 때문에, 기�
 </html>
 ```
 
-![Untitled](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/4f74a323-8709-4fe7-9dcf-d068fe77ee01/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220510%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220510T182319Z&X-Amz-Expires=86400&X-Amz-Signature=22cdb4e3629f49765454fad3c975eb5a6ec3f2869167fd35ebe906ca0baab3a4&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22&x-id=GetObject)
+![Untitled](https://ifh.cc/g/9W2Tsy.png)
 
 | i | 이태릭체 |
 | --- | --- |
@@ -439,7 +439,7 @@ HELLOMYWORLD
 
 <br>
 
-![Untitled](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/c8414e3f-4402-49c0-bc91-b313b57b2984/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220510%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220510T182858Z&X-Amz-Expires=86400&X-Amz-Signature=30181a6d0f6a9030cf315627940a1c6349b737b9ba760e3770af02200bb7d084&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22&x-id=GetObject)
+![Untitled](https://ifh.cc/g/YsTNPw.png)
 
 `margin`(외부 여백), `padding`(내부 여백), `border`(경계선) 의 값을 설정해 줄 때 원하는 위치에만 값을 설정해 줄 수 있는 위치이다. `top / right / bottom / left` 로 이루어져 있으며, **시계 방향**으로 알아두면 좋다.
 
