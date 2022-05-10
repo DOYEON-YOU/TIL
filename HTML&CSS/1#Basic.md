@@ -54,7 +54,7 @@
 
 `- br이 작성되지 않았을 때 -`
 
-![https://images.velog.io/images/doyeonyou/post/165968d8-0405-41c1-ac3f-90803de7998c/1.png](https://images.velog.io/images/doyeonyou/post/165968d8-0405-41c1-ac3f-90803de7998c/1.png)
+![Untitled](https://ifh.cc/g/Dqha9b.png)
 
 <br>
 
@@ -64,7 +64,7 @@
 
 `- br이 작성되었을 때 -`
 
-![https://images.velog.io/images/doyeonyou/post/7a7a34f5-a9d8-4a28-b04f-9f45ae522ae4/image.png](https://images.velog.io/images/doyeonyou/post/7a7a34f5-a9d8-4a28-b04f-9f45ae522ae4/image.png)
+![Untitled](https://ifh.cc/g/5XX37w.png)
 
 <br>
 
@@ -147,7 +147,7 @@ html, head, body, meta, title, h1~h6은 모두 <code>`요소명`</code>으로 �
 
 ```
 
-![https://images.velog.io/images/doyeonyou/post/cf02df87-fa45-4f28-ade1-38401da4bd3d/image.png](https://images.velog.io/images/doyeonyou/post/cf02df87-fa45-4f28-ade1-38401da4bd3d/image.png)
+![Untitled](https://ifh.cc/g/CdQ9Sj.png)
 
 위 결과물을 확인해 보면 블록 요소인 h1, p로 이루어져 있어 가로폭을 100% 차지하는 것이 보인다. 따로 width, height를 설정해 주지 않으면 가로폭을 항상 100% 차지한다.
 
@@ -157,7 +157,7 @@ html, head, body, meta, title, h1~h6은 모두 <code>`요소명`</code>으로 �
 
 <br>
 
-![https://images.velog.io/images/doyeonyou/post/6d75f671-79fa-4488-9803-454d24a8f8e6/s.png](https://images.velog.io/images/doyeonyou/post/6d75f671-79fa-4488-9803-454d24a8f8e6/s.png)
+![Untitled](https://ifh.cc/g/jRZ6Nv.png)
 
 위에서 보는 바와 같이, 내가 설정한 font-size는 50px이다.
 font-size의 1배가 1em이라는 단위이며, 1em은 즉 50px이므로 margin-top, margin-bottom은 각각 50px이 된다.
