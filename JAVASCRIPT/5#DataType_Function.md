@@ -56,7 +56,7 @@ return 999;
 };
 ```
 
-![Untitled](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/d17f71e3-b2ef-43d1-9386-8ff14a2629b4/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220510%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220510T191811Z&X-Amz-Expires=86400&X-Amz-Signature=8bc715e4ad4e1f2514a8e156dd22f0521545ee10d521d78435ab2f373b83059f&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22&x-id=GetObject)
+![Untitled](https://ifh.cc/g/nGP8wW.png)
 
 함수가 `종료`되는 것을 <`함수가 return 된다`>라고도 하는데, 위 함수에서 return의 밑으로 함수값이 적혀 있으면 `그 함수값들은 실행이 되지 않는다.` 변수를 `선언`만 하고 `값`을 넣지 않으면 반환값에는 자동으로 `undefined`가 들어간다. 함수를 호출하게 되면 그 위치는 반드시 어떠한 값으로 바뀌기 때문에, 반환값이 없다면 undefined라는 `아무것도 정의되지 않은 상태를 의미하는 데이터`가 나오게 되는 것이다. 반환값에는 undefined를 `명시적`으로 넣어줄 수도 있는데, 굳이 undefined; 를 넣을 필요 없이, `let 변수명;` 을 선언만 해도 된다.
 

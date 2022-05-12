@@ -54,7 +54,7 @@ let num4 = num1 + num3
 
 num4라는 변수를 새로 만들어 num1과 num3을 더해 주었다. num1의 값은 1, num3의 값은 3이기 때문에 num 4는 4가 된다. 직접 확인해 보자.
 
-![Untitled](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/ec38eea5-6ac0-488e-bf10-c72fdf53784e/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220510%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220510T190421Z&X-Amz-Expires=86400&X-Amz-Signature=ca7ffdacb964ba0d2e4433d90836c70ecb20c829b806b84ff269a4200f405a5a&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22&x-id=GetObject)
+![Untitled](https://ifh.cc/g/aalAYt.png)
 
 num1~num3의 변수를 이미 만들어둔 상황에서 num4라는 변수를 새로 선언했다. num4의 값은 역시나 4가 나왔다. 위 변수를 다시 해석해 보면 **1을 num1이라는 변수에 대입**하고, **2를 num2라는 변수에 대입**하고, **3을 num3이라는 변수에 대입**하라는 뜻이다. 그렇기 때문에 `num4`는 `1과 3을 더한 숫자를 대입하라는 뜻`이기에 `4를 num4라는 변수에 대입`하여 `num4라는 변수의 값은 4`가 되는 것이다.
 
@@ -104,7 +104,7 @@ let str4 = `
 
 작은 따옴표, 큰 따옴표, 백틱으로 확연하게 나뉘어 있는데 `백틱은 여러 줄의 문자열이 작성`되어 있다. 이것은 작은 따옴표와 큰 따옴표는 적용되지 않지만 백틱을 이용했을 때에 `개행 기호를 사용`할 수 있어 문자열을 편하게 작성할 수 있다는 장점이 있다. str4라는 이름을 가진 변수를 콘솔 창에 입력해 값을 출력해 보면
 
-![Untitled](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/976ac34f-ac1c-48fc-a864-b986afe45f6b/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220510%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220510T190440Z&X-Amz-Expires=86400&X-Amz-Signature=2367bc80d97e330a8e52424fa89f49acb3da099e011e1878bbc381f9cc2b5df4&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22&x-id=GetObject)
+![Untitled](https://ifh.cc/g/gJcK89.png)
 
 이와 같이 `백틱, 개행 문자, Tab이 모두 표현되어 있는 것`이 보인다.
 

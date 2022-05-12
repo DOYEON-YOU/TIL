@@ -54,7 +54,7 @@
 
 **위의 코드에서 `console.log`가 적용된 모습**
 
-![https://images.velog.io/images/doyeonyou/post/38c90aad-adc4-4382-9dfb-c6127f845384/image.png](https://images.velog.io/images/doyeonyou/post/38c90aad-adc4-4382-9dfb-c6127f845384/image.png)
+![Untitled](https://ifh.cc/g/qSFj2H.png)
 
 
 <br>
@@ -65,7 +65,7 @@
 
 **위의 코드에서 `alert`가 적용된 모습**
 
-![https://images.velog.io/images/doyeonyou/post/c5a2aca7-2d3e-4e78-b9d3-8b985730aaa7/image.png](https://images.velog.io/images/doyeonyou/post/c5a2aca7-2d3e-4e78-b9d3-8b985730aaa7/image.png)
+![Untitled](https://ifh.cc/g/J2AOoy.png)
 
 ---
 

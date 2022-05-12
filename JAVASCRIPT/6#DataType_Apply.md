@@ -77,16 +77,16 @@ let result = a == b; // false
 
 getFriends라는 변수에 익명함수를 넣어 friends라는 배열을 만든 후 push를 이용해 friends라는 배열에 세 가지의 오브젝트를 넣은 것이다. 이 배열은 총 세 개의 오브젝트가 들어가 세 명의 정보를 나타낼 수 있다. 마지막 return friends; 로 인해 아래와 같이 getFriends() 를 호출했을 때 friends 배열의 값들이 콘솔창에 나타나게 된다.
 
-![Untitled](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/2387bab8-cc4f-4e9b-9eb7-8d5d59f89830/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220510%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220510T192116Z&X-Amz-Expires=86400&X-Amz-Signature=398f3f68d7356cbf88643e915e3155cb2c7be88447f12830a07614accd486488&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22&x-id=GetObject)
+![Untitled](https://ifh.cc/g/kAxQk2.png)
 
 <br>
 
 friends 배열을 반환값에 넣었기 때문에 getFriends()를 호출하였을 때 friends 배열이 나온다. 그렇기에 a라는 변수를 만들어 getFriends라는 함수를 호출하였을 때도 콘솔창에 a를 입력하면 총 세 개의 배열이 입력되며, a[0]과 같이 인덱스를 불러올 수 있는 것이다.
 
-![Untitled](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/af477fda-b97c-4b96-8fca-e698b024be88/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220510%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220510T192127Z&X-Amz-Expires=86400&X-Amz-Signature=93ae80b5f29b903129471b9939c02200968e73f1a55d7cc7c6b8f542f9de5c41&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22&x-id=GetObject)
+![Untitled](https://ifh.cc/g/xQngwb.png)
 
 <br>
 
 util이라는 변수에는 key:value 의 모습을 한 Object type으로 작성이 되어 있다. Object type이기 때문에 getFriends라는 Object를 만들어 getFriends라는 함수를 참조한 것이기 때문에, util이라는 변수를 콘솔 창에 불러왔을 때에는 아래와 같은 결과를 띄게 된다.
 
-![Untitled](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/d6fb3425-f5b4-4245-bfc1-7424f70ceaf8/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220510%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220510T192136Z&X-Amz-Expires=86400&X-Amz-Signature=3c0f24cbe839b7aad1b06372a0dde11ec3aeca2864b242137042a93225446d96&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22&x-id=GetObject)
+![Untitled](https://ifh.cc/g/ky2oHa.png)

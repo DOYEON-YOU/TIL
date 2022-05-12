@@ -58,7 +58,7 @@ let num1 = 1234;
 
 <br>
 
-![Untitled](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/551a97d5-cb2f-493e-8ead-398b095b3b16/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220510%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220510T192330Z&X-Amz-Expires=86400&X-Amz-Signature=5c3b6256f15717ed33f755658510654727cae4a4e051898b0c12eceb27e86724&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22&x-id=GetObject)
+![Untitled](https://ifh.cc/g/4vQ760.png)
 
 더 이해하기 쉽도록 예시를 들어보겠다. 매개 변수에는 인자, 또는 인수를 넣을 수 있는데, 함수를 인자로 넣을 수도 있다.
 

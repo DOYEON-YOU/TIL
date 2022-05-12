@@ -144,7 +144,7 @@ let foods=["연어초밥", "치킨", "김치찌개", "삼겹살", "냉면", "피
 
 🎨 **Result**
 
-![Untitled](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/948d009a-21a5-432e-8d85-29a7c5614a1c/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220510%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220510T191338Z&X-Amz-Expires=86400&X-Amz-Signature=75c74f38a0b030f6fce2c10da18d5f3b390c9240454d6f8dd5172df7ac02584f&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22&x-id=GetObject)
+![Untitled](https://ifh.cc/g/btGwfb.png)
 
 첫 번째 줄에서는 `1, true, "Java"` 라는 기본 배열에 push( ) 메소드를 이용하여 “Script” 라는 단어를 하나 더 추가시켰고, 두 번째 줄에서는 `test2.length`라는 길이 반환 함수로 `길이를 100으로 설정한 후 배열값에 100을 입력`했다.  마지막으로 세 번째 줄에서는 `10번 index`, 그러니까 `11번째에 “자바스크립트”라는 단어를 추가`했다. 마지막 줄의 쉼표는 10번 index를 선택하면서 선택받지 못한 `5, 6, 7, 8, 9 번 index가 빈자리로 남겨져 쉼표만 표시되는 것`이다.
 
@@ -195,6 +195,6 @@ foods[2] 즉 김치찌개부터 1개의 배열 요소를 삭제하겠다는 의�
 
 <br>
 
-![Untitled](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/28634ff4-adb5-4301-a736-993ef32cf1a6/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220510%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220510T191353Z&X-Amz-Expires=86400&X-Amz-Signature=c97d716530ebc294a90af05538260fb8ce9d6b6e453705aa0160d0e1270a37bf&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22&x-id=GetObject)
+![Untitled](https://ifh.cc/g/3GlKdo.png)
 
 보면서 push, length, splice와 같은 함수들을 모두 익혀두자.
