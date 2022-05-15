@@ -75,7 +75,7 @@ a 태그로 링크된 하이퍼 링크는 모든 브라우저에서 다음과 �
 
 🎨 **Result**
 
-![Untitled](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/f94929b4-2135-4c26-a4c3-b0daa4805ac5/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220510%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220510T185940Z&X-Amz-Expires=86400&X-Amz-Signature=105ef681c63a773df3e2442b59fe2dfa9d1de1bb1f387bae4b9ba2f9fc36d67a&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22&x-id=GetObject)
+![Untitled](https://ifh.cc/g/X0QZmV.png)
 
 기본적으로 `<a href=”링크”>누르면 이동<a>` 의 형식을 가지고 있다. 링크가 작성되어지는 부분에는 직접적인 `웹 페이지 링크`가 들어갈 수 있고, `컴퓨터에 저장되어 있는 html 파일`의 경로를 입력하여 해당 html로 바로 이동할 수 있다.
 
@@ -139,7 +139,7 @@ a 태그로 링크된 하이퍼 링크는 모든 브라우저에서 다음과 �
 
 🎨 **Result**
 
-![Untitled](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/88fff82a-4551-4181-b7b3-d7988816295b/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220510%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220510T190002Z&X-Amz-Expires=86400&X-Amz-Signature=f99186e3b7802c9220d5d597ad34d0f275e3b09549e7347bcd2eb71a48ac6987&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22&x-id=GetObject)
+![Untitled](https://ifh.cc/g/xlJYH0.png)
 
 위 코드를 정리해 보자. 
 
